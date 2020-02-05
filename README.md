@@ -5,7 +5,7 @@
  VO is the pose estimation process of an agent (e.g., vehicle, human, and robot) that involves the use of only a stream of images acquired from a single or from multiple cameras attached to it. The core of VO is camera pose estimation. It is an ego-motion online estimation process from a video input. This approach is a non-contact method for the effective positioning of mobile robots. VO provides an incremental online estimation of a vehicle’s position by analyzing the image sequences captured by a camera.
 The idea of estimating a vehicle’s pose from visual input alone was introduced and described by Moravec in the early 1980s. From 1980 to 2000, VO research was dominated by NASA in preparation for the 2004 Mars Mission. The term "visual odometry" was selected because vision-based localization is similar to wheel odometry in that it incrementally estimates the motion of a vehicle by integrating the number of turns of its wheels over time. In the same manner, VO integrates pixel displacements between image frames over time.
 
-###Requirements:
+### Requirements:
 * opencv-3.0 
 * numpy
 
