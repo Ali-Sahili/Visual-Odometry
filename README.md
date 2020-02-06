@@ -15,5 +15,5 @@ For testing the project, only change the dataset path and the paths for saving r
 * python Code.py
 
 The main dataset used in this project is the KITTI- dataset, it is a open-source and useful dataset.
-Also, for testing and comparing the different Features extraction, detection and matching methods, other datasets are used where they contain several images which differ by point of view, brightness, noise ratio, dark light,... These datasets can be found in the datasets.zip file.
+Also, for testing and comparing the different Features extraction, detection and matching methods, other datasets are used where they contain several images which differ by point of view, brightness, noise ratio, dark light,... These datasets can be found in the datasets file.
 
