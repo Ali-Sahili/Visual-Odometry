@@ -1,5 +1,10 @@
 # Visual-Odometry
 
+<p float="center">
+  <img src="Results/Trajectory_AGAST_BRIEF_GPS.jpg" width="370" hspace="20"/>
+  <img src="Results/Trajectory_FAST_BRIEF_GPS.jpg" width="370" /> 
+</p>
+
 ## Introduction
  Localization is the main task for autonomous vehicles to be able to track their paths and properly detect and avoid obstacles. Vision-based odometry is one of the robust techniques used for vehicle localization. This section comprehensively discusses VO and its types, approaches, applications, and challenges.
  VO is the pose estimation process of an agent (e.g., vehicle, human, and robot) that involves the use of only a stream of images acquired from a single or from multiple cameras attached to it. The core of VO is camera pose estimation. It is an ego-motion online estimation process from a video input. This approach is a non-contact method for the effective positioning of mobile robots. VO provides an incremental online estimation of a vehicle’s position by analyzing the image sequences captured by a camera.
